@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to NeoBank accounts related Quality Assurance APIs"
+  message: "Welcome to NeoBank accounts related Quality A APIs"
   contactDetails:
     name: "Besiki - QA Lead"
     email: "besiki@gmail.com"
