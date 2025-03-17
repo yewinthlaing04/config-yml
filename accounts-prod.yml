@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to NeoBank accounts related Production APIs"
+  message: "Welcome to NeoBank accounts related production APIs"
   contactDetails:
     name: "Lesly Mace -  Product Owner"
     email: "lesly@gmail.com"
